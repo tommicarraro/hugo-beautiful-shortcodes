@@ -1,0 +1,11 @@
+name = 'Hugo-beautiful-shortcodes'
+license = 'GPL'
+licenselink = 'https://github.com/tommicarraro/hugo-beautiful-shortcodes.git'
+description = 'A beautiful collection of self-standing hugo shortcodes'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/tommicarraro/hugo-beautiful-shortcodes'
+
+# If the theme has a single author
+[author]
+  name = 'Tommaso Carraro'
