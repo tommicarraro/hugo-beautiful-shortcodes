@@ -1,3 +1,7 @@
+
+> [!WARNING]
+> I am in the early stages of developing this repository.
+
 # hugo-beautiful-shortcodes
 
 A beautiful collection of self-standing hugo shortcodes
